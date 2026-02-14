@@ -216,9 +216,10 @@ Portfolio simulation
 
 This project is licensed under the MIT License.
 
-👤 Author
+👤 Contributors
 
 Taarunya Aggarwal
+Sunay Mukherjee
 
 Project: FinSight
 
